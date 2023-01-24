@@ -1,0 +1,8 @@
+variables -
+data types -
+loops -
+string -
+array -
+collections -
+array and string methods -
+data structure with kotlin -
